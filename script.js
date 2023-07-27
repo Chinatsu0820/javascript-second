@@ -48,7 +48,7 @@ function go(sides) {
     for (let i = 0; i < multiplier.innerHTML; i++) {
         var result = sides.roll();
         console.log(result);
-        llor =+ result;
+        llor = llor + result;
     }
 
     print(llor);
