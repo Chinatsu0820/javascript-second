@@ -83,5 +83,10 @@ Regardless of which of the options above our team decides to go with, all of our
 
 --------------------------------Overview of our website--------------------------------
 
-This is a game site. User can play this game by clicking button.
+This is a game site. User can play this game only clicking button.
+This site has three JS features below.
+
+【RNG/Dice Roll】 - for game / by Gabriel
+【Music Player】 - for music player / by Hyerim
+【Image Captions】 - for hint / by Chinatsu
 
