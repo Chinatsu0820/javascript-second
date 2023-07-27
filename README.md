@@ -1,5 +1,7 @@
 # javascript-second
 
+--------------------------------Overview of the assignment--------------------------------
+
 This is our second assignment in WD3 - JavaScript for Web Developers 1.
 The purpose of this assigment is to get a good grasp of JavaScript.
 
@@ -76,3 +78,10 @@ Regardless of which of the options above our team decides to go with, all of our
  【Image Captions】 Hover over images to see a tooltip/modal with information about an image
  【Map Points of Interest】 Hover over coordinates on a map to see information about that location
  【Parallax / Advanced Animations】 Advanced animations and effects that require JS and not just CSS
+
+
+
+--------------------------------Overview of our website--------------------------------
+
+This is a game site. User can play this game by clicking button.
+
